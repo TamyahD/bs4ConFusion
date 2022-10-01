@@ -24,3 +24,10 @@
     margin: 0px;
     color: black;
 }
+
+#container-content {
+    padding: 0px 20px 50px 20px;
+}
+#content-history {
+    margin-bottom: 50px;
+}
